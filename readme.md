@@ -10,7 +10,7 @@ All portable, executable files are ready to be downloaded and played instantly i
 
 ###### or compile this by yourself
 
-This way is suitable for man who has an pretty free weekend.
+This way is suitable for man who has a free weekend alone.
 
 First, setup Rust toolchain on your PC with help from rust-lang.org
 
